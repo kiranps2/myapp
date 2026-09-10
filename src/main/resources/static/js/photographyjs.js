@@ -1,3 +1,3 @@
 function showstring(){
-	document.write("Thanks for clicking the camera!");
+	alert("Thanks for clicking the camera!");
 }
